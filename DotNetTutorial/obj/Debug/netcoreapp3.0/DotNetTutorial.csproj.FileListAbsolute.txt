@@ -1,0 +1,11 @@
+D:\Projects\LearningDotNet\DotNetTutorial\bin\Debug\netcoreapp3.0\DotNetTutorial.exe
+D:\Projects\LearningDotNet\DotNetTutorial\bin\Debug\netcoreapp3.0\DotNetTutorial.deps.json
+D:\Projects\LearningDotNet\DotNetTutorial\bin\Debug\netcoreapp3.0\DotNetTutorial.runtimeconfig.json
+D:\Projects\LearningDotNet\DotNetTutorial\bin\Debug\netcoreapp3.0\DotNetTutorial.runtimeconfig.dev.json
+D:\Projects\LearningDotNet\DotNetTutorial\bin\Debug\netcoreapp3.0\DotNetTutorial.dll
+D:\Projects\LearningDotNet\DotNetTutorial\bin\Debug\netcoreapp3.0\DotNetTutorial.pdb
+D:\Projects\LearningDotNet\DotNetTutorial\obj\Debug\netcoreapp3.0\DotNetTutorial.csprojAssemblyReference.cache
+D:\Projects\LearningDotNet\DotNetTutorial\obj\Debug\netcoreapp3.0\DotNetTutorial.AssemblyInfoInputs.cache
+D:\Projects\LearningDotNet\DotNetTutorial\obj\Debug\netcoreapp3.0\DotNetTutorial.AssemblyInfo.cs
+D:\Projects\LearningDotNet\DotNetTutorial\obj\Debug\netcoreapp3.0\DotNetTutorial.dll
+D:\Projects\LearningDotNet\DotNetTutorial\obj\Debug\netcoreapp3.0\DotNetTutorial.pdb
