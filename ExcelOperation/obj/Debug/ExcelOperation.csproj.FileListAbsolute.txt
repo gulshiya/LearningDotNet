@@ -1,0 +1,7 @@
+C:\Users\gulshiya\source\repos\ExcelOperation\bin\Debug\ExcelOperation.dll
+C:\Users\gulshiya\source\repos\ExcelOperation\bin\Debug\ExcelOperation.pdb
+C:\Users\gulshiya\source\repos\ExcelOperation\obj\Debug\ExcelOperation.csprojAssemblyReference.cache
+C:\Users\gulshiya\source\repos\ExcelOperation\obj\Debug\ExcelOperation.dll
+C:\Users\gulshiya\source\repos\ExcelOperation\obj\Debug\ExcelOperation.pdb
+C:\Users\gulshiya\source\repos\ExcelOperation\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\gulshiya\source\repos\ExcelOperation\obj\Debug\ExcelOperation.csproj.ResolveComReference.cache
